@@ -1,0 +1,20 @@
+{
+"calc": {
+
+  "name": "BMI Cal",
+  "logo": "logo.png",
+  "right" : "© BMI Cal, 2014.",
+  "nav1" : "Home",
+  "nav2" : "Calculator",
+  "nav3" : "About",
+  "nav4" : "Locating",
+  "nav5" : "Contact",
+  "name1": "Harsimran Singh Bath",
+  "email1" : "bathha@sheridanc.on.ca",
+  "name2" : "Sahil Mahajan",
+  "email2" : "mahajsah@sheridanc.on.ca",
+  "name3" : "Vijay Amrit Raj Singh",
+  "email3" : "sivijaya@sheridanc.on.ca",
+  "about" : "The Body Mass Index is one way to establish whether an adult is overweight. BMI analyzes height and weight.     The BMI is calculated by dividing a person's weight in kilograms by his or her height in meters, squared. You can also calculate your BMI by multiplying weight in pounds by 705, then dividing by height in inches twice.   The higher the BMI, the greater you are at risk for developing serious conditions and illnesses.  These conditions and diseases include:High blood pressure, Coronary artery disease, Stroke, Osteoarthritis, Some types of cancers such as breast and colon cancer, Type 2 diabetes, Emotional problems such as low-self esteem and depression"
+  }
+}
